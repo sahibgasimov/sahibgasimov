@@ -5,14 +5,16 @@
 </p>
 
 ### Sahib Gasimov
-Cloud Engineer | AWS and Azure Cloud Solutions Architect
+DevOps Engineer | AWS and Azure Cloud Solutions Architect
 
-- 🔭 I’m currently Cloud Engineer
-- 🌱 I’m currently learning cloud computing and devops tools
-- 💬 I am passionate to learn and cooperate, and I am eager to share my knowledge
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/sahib-gasimov/)  [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/sahibgasimov) 
+🌐 **Website:** https://sahibgasimov.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/sahibgasimov/  
 
- <hr>
+- 🔭 Currently working as a **Cloud DevOps Engineer**
+- ⚙️ Passionate about **automation, scalability, and reliability**
+- 📚 Always learning and exploring new technologies
+- 🤝 Open to collaboration and knowledge sharing
+
  
 ### Languages and Tools:
 
@@ -22,6 +24,7 @@ Cloud Engineer | AWS and Azure Cloud Solutions Architect
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg" alt="Openshift"> </code>
   <br />
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="Jenkins"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible"></code>
@@ -31,7 +34,12 @@ Cloud Engineer | AWS and Azure Cloud Solutions Architect
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="GitHub"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="GitLab"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" alt="Bitbucket"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-ar21.svg" alt="Datadog"></code>
+  <code><img width="13%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg" alt="Prometheus"></code> 
+  <code><img width="90" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana"></code> 
+
+
   <br />
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL"></code>
   <code><img width="13%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL"></code>
